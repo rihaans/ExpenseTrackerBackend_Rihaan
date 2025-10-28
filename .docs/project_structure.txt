@@ -1,0 +1,33 @@
+.
+|____.env.example
+|____.gitignore
+|____API_Documentation.md
+|____CONVERT_TO_PDF.md
+|____DEPLOYMENT_GUIDE.md
+|____INDEX.md
+|____NUL
+|____package.json
+|____postman_collection.json
+|____project_structure.txt
+|____PROJECT_SUMMARY.md
+|____QUICK_START_GUIDE.md
+|____README.md
+|____src
+| |____controllers
+| | |____authController.js
+| | |____expenseController.js
+| | |____reportController.js
+| |____firebase
+| | |____firebaseConfig.js
+| |____middleware
+| | |____authMiddleware.js
+| | |____errorHandler.js
+| | |____validators.js
+| |____models
+| | |____Expense.js
+| | |____User.js
+| |____routes
+| | |____authRoutes.js
+| | |____expenseRoutes.js
+| | |____reportRoutes.js
+| |____server.js
